@@ -1,0 +1,26 @@
+{
+  "name": "user",
+  "version": "1.0.0",
+  "description": "gulp tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wilian1992/https---github.com-wilian1992-Curso-Front-End.git"
+  },
+  "author": "wilian paiva de aquino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wilian1992/https---github.com-wilian1992-Curso-Front-End/issues"
+  },
+  "homepage": "https://github.com/wilian1992/https---github.com-wilian1992-Curso-Front-End#readme",
+  "devDependencies": {
+    "gulp-concat": "^2.6.1",
+    "gulp-less": "^5.0.0"
+  },
+  "dependencies": {
+    "gulp": "^4.0.2"
+  }
+}
